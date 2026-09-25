@@ -1,24 +1,24 @@
 {
-    "default_filament_colour": [
-        "#000000"
-    ],
-    "filament_density": [
-        "1.37"
-    ],
-    "filament_extruder_variant": [
-        "Direct Drive Standard"
-    ],
-    "filament_flow_ratio": [
-        "0.9469"
-    ],
-    "filament_settings_id": [
-        "Panchroma Regular Black"
-    ],
-    "filament_vendor": [
-        "Polymaker"
-    ],
-    "from": "User",
-    "inherits": "Generic PLA",
-    "name": "Panchroma Regular Black",
-    "version": "0.0.0.0"
+	"default_filament_colour": [
+		"#000000"
+	],
+	"filament_density": [
+		"1.37"
+	],
+	"filament_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"filament_flow_ratio": [
+		"0.965838"
+	],
+	"filament_settings_id": [
+		"Panchroma Regular Black"
+	],
+	"filament_vendor": [
+		"Polymaker"
+	],
+	"from": "User",
+	"inherits": "Generic PLA",
+	"name": "Panchroma Regular Black",
+	"version": "0.0.0.0"
 }

@@ -1,33 +1,33 @@
 {
-    "default_filament_colour": [
-        "#dfc287"
-    ],
-    "filament_cost": [
-        "43"
-    ],
-    "filament_extruder_variant": [
-        "Direct Drive Standard"
-    ],
-    "filament_flow_ratio": [
-        "0.986748"
-    ],
-    "filament_settings_id": [
-        "Prusament Woodfill Linden"
-    ],
-    "filament_vendor": [
-        "Prusament"
-    ],
-    "from": "User",
-    "inherits": "Generic PLA",
-    "name": "Prusament Woodfill Linden",
-    "nozzle_temperature": [
-        "195"
-    ],
-    "nozzle_temperature_initial_layer": [
-        "195"
-    ],
-    "nozzle_temperature_range_high": [
-        "205"
-    ],
-    "version": "0.0.0.0"
+	"default_filament_colour": [
+		"#dfc287"
+	],
+	"filament_cost": [
+		"43"
+	],
+	"filament_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"filament_flow_ratio": [
+		"1.00648"
+	],
+	"filament_settings_id": [
+		"Prusament Woodfill Linden"
+	],
+	"filament_vendor": [
+		"Prusament"
+	],
+	"from": "User",
+	"inherits": "Generic PLA",
+	"name": "Prusament Woodfill Linden",
+	"nozzle_temperature": [
+		"195"
+	],
+	"nozzle_temperature_initial_layer": [
+		"195"
+	],
+	"nozzle_temperature_range_high": [
+		"205"
+	],
+	"version": "0.0.0.0"
 }

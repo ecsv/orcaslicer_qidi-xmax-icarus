@@ -1,24 +1,24 @@
 {
-    "default_filament_colour": [
-        "#F9A215"
-    ],
-    "filament_density": [
-        "1.37"
-    ],
-    "filament_extruder_variant": [
-        "Direct Drive Standard"
-    ],
-    "filament_flow_ratio": [
-        "0.9471"
-    ],
-    "filament_settings_id": [
-        "Panchroma Translucent Yellow"
-    ],
-    "filament_vendor": [
-        "Polymaker"
-    ],
-    "from": "User",
-    "inherits": "Generic PLA",
-    "name": "Panchroma Translucent Yellow",
-    "version": "0.0.0.0"
+	"default_filament_colour": [
+		"#F9A215"
+	],
+	"filament_density": [
+		"1.37"
+	],
+	"filament_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"filament_flow_ratio": [
+		"0.966042"
+	],
+	"filament_settings_id": [
+		"Panchroma Translucent Yellow"
+	],
+	"filament_vendor": [
+		"Polymaker"
+	],
+	"from": "User",
+	"inherits": "Generic PLA",
+	"name": "Panchroma Translucent Yellow",
+	"version": "0.0.0.0"
 }
