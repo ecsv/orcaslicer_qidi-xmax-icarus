@@ -49,6 +49,13 @@ Install printer
     ``0.12mm Fast Detail``
       derived from ``0.16mm Speed`` with lower layer height but wall speed and acceleration was slightly reduced
 
+Bundle
+======
+
+Instead of manually downloading the presets in orcaslicaer (step 5-7), you can also just
+use OrcaSlicer Cloud (requires login) and subscribe to
+https://cloud.orcaslicer.com/b/3d738f62a3f7
+
 Clear OrcaSlicer state
 ======================
 
