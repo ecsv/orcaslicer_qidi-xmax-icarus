@@ -5,7 +5,7 @@ Install printer
 
    a. as AppImage:
 
-      1. download appimage from https://github.com/SoftFever/OrcaSlicer/releases/tag/v2.4.0 and safe it as ``orca``
+      1. download appimage from https://github.com/SoftFever/OrcaSlicer/releases/tag/v2.4.2 and safe it as ``orca``
       2. mark the appimage as executable (``chmod +x ~/orca``)
       3. start Orcaslicer via ``~/orca``
 
@@ -27,8 +27,8 @@ Install printer
 
 4. If the "New Version" dialog appears, just select "Check for stable updates only" and then "Skip this version"
 
-5. Download profiles from https://github.com/ecsv/Qidi-Printer-Definitions/archive/refs/heads/orcaslicer.zip
-6. Go to ``File`` -> ``Import`` -> ``Import Configs`` and select the downloaded ``Qidi-Printer-Definitions-orcaslicer.zip``
+5. Download profiles from https://github.com/ecsv/orcaslicer_qidi-xmax-icarus/archive/refs/heads/orcaslicer.zip
+6. Go to ``File`` -> ``Import`` -> ``Import Configs`` and select the downloaded ``orcaslicer_qidi-xmax-icarus-orcaslicer.zip``
 7. Repeat the last step (no, I am not joking) and let it overwrite all profiles/filaments
 8. Switch to the ``Prepare`` tab and switch the printer to ``Qidi X-Max Icarus 0.4 nozzle``
 9. Click on the Wifi symbol next to the printer to set the ``Hostname, IP or URL`` point to the printer ``$IP``, select as "Agent" ``Moonraker``
@@ -57,4 +57,4 @@ This repository contains experimental configurations for Qidi X-Max with Icarus
 forward compatible way. So when in doubt, please clear the Orcaslicer state::
 
   rm -rf ~/.cache/orca-slicer/ ~/.local/share/orca-slicer/ ~/.config/OrcaSlicer/
-  rm -rf ~/.var/app/io.github.softfever.OrcaSlicer/
+  rm -rf ~/.var/app/com.orcaslicer.OrcaSlicer/
