@@ -2,8 +2,8 @@
 	"adaptive_bed_mesh_margin": "0",
 	"auxiliary_fan": "0",
 	"bbl_use_printhost": "0",
-	"bed_custom_model": "",
-	"bed_custom_texture": "",
+	"bed_custom_model": "qidi_xmax_buildplate_model.stl",
+	"bed_custom_texture": "qidi_xmax_buildplate_texture.svg",
 	"bed_exclude_area": [
 		"0x0"
 	],
