@@ -1,0 +1,21 @@
+{
+	"default_filament_colour": [
+		"#000000"
+	],
+	"filament_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"filament_flow_ratio": [
+		"0.920637"
+	],
+	"filament_settings_id": [
+		"Polylite PC-FR"
+	],
+	"filament_vendor": [
+		"Polymaker"
+	],
+	"from": "User",
+	"inherits": "Generic PCFR @X-Max",
+	"name": "Polylite PC-FR @X-Max",
+	"version": "0.0.0.0"
+}

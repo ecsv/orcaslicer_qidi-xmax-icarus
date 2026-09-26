@@ -1,0 +1,24 @@
+{
+	"default_filament_colour": [
+		"#000000"
+	],
+	"filament_density": [
+		"1.16"
+	],
+	"filament_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"filament_flow_ratio": [
+		"1.03561"
+	],
+	"filament_settings_id": [
+		"Polyflex TPU95"
+	],
+	"filament_vendor": [
+		"Polymaker"
+	],
+	"from": "User",
+	"inherits": "Generic TPU @X-Max",
+	"name": "Polyflex TPU95 @X-Max",
+	"version": "0.0.0.0"
+}

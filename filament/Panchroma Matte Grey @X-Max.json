@@ -1,0 +1,21 @@
+{
+	"default_filament_colour": [
+		"#939598"
+	],
+	"filament_density": [
+		"1.37"
+	],
+	"filament_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"filament_settings_id": [
+		"Panchroma Matte Grey"
+	],
+	"filament_vendor": [
+		"Polymaker"
+	],
+	"from": "User",
+	"inherits": "Generic PLA @X-Max",
+	"name": "Panchroma Matte Grey @X-Max",
+	"version": "0.0.0.0"
+}
