@@ -17,12 +17,14 @@
 	"change_filament_gcode": "",
 	"cooling_tube_length": "5",
 	"cooling_tube_retraction": "91.5",
-	"default_bed_type": "",
-	"default_filament_profile": [],
+	"default_bed_type": "Textured PEI Plate",
+	"default_filament_profile": [
+		"Generic PLA @X-Max"
+	],
 	"default_nozzle_volume_type": [
 		"Standard"
 	],
-	"default_print_profile": "",
+	"default_print_profile": "0.20mm normal @X-Max",
 	"deretraction_speed": [
 		"25"
 	],
