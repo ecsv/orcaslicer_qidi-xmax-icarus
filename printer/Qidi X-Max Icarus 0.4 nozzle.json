@@ -30,7 +30,7 @@
 	],
 	"disable_m73": "0",
 	"emit_machine_limits_to_gcode": "1",
-	"enable_filament_ramming": "0",
+	"enable_filament_ramming": "1",
 	"enable_long_retraction_when_cut": "0",
 	"enable_power_loss_recovery": "printer_configuration",
 	"extra_loading_move": "-2",
@@ -152,7 +152,7 @@
 		"0"
 	],
 	"machine_pause_gcode": "M600",
-	"machine_start_gcode": "\n; M190 S[bed_temperature_initial_layer_single]\n; M109 S[nozzle_temperature_initial_layer]\nSET_PRINT_STATS_INFO TOTAL_LAYER=[total_layer_count]\nSTART_PRINT EXTRUDER_TEMP=[nozzle_temperature_initial_layer] BED_TEMP=[bed_temperature_initial_layer_single]",
+	"machine_start_gcode": "; M190 S[bed_temperature_initial_layer_single]\n; M109 S[nozzle_temperature_initial_layer]\nSET_PRINT_STATS_INFO TOTAL_LAYER=[total_layer_count]\nSTART_PRINT EXTRUDER_TEMP=[nozzle_temperature_initial_layer] BED_TEMP=[bed_temperature_initial_layer_single]\n",
 	"machine_tool_change_time": "0",
 	"machine_unload_filament_time": "0",
 	"manual_filament_change": "1",
@@ -203,16 +203,16 @@
 	"printer_extruder_variant": [
 		"Direct Drive Standard"
 	],
-	"printer_model": "",
+	"printer_model": "Qidi X-Max Icarus",
 	"printer_notes": "",
 	"printer_settings_id": "Qidi X-Max Icarus 0.4 nozzle",
 	"printer_structure": "undefine",
 	"printer_technology": "FFF",
-	"printer_variant": "",
+	"printer_variant": "0.4",
 	"printhost_authorization_type": "key",
 	"printhost_ssl_ignore_revoke": "0",
 	"printing_by_object_gcode": "",
-	"purge_in_prime_tower": "0",
+	"purge_in_prime_tower": "1",
 	"resonance_avoidance": "0",
 	"retract_before_wipe": [
 		"70%"
@@ -255,7 +255,7 @@
 	"single_extruder_multi_material": "1",
 	"support_air_filtration": "1",
 	"support_chamber_temp_control": "1",
-	"support_multi_bed_types": "1",
+	"support_multi_bed_types": "0",
 	"support_object_skip_flush": "0",
 	"support_parallel_printheads": "0",
 	"template_custom_gcode": "",
