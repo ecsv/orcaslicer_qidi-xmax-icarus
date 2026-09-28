@@ -65,7 +65,7 @@
 	],
 	"head_wrap_detect_zone": [],
 	"high_current_on_filament_swap": "0",
-	"host_type": "moonraker",
+	"host_type": "octoprint",
 	"inherits": "",
 	"input_shaping_damp_x": "0.1",
 	"input_shaping_damp_y": "0.1",
@@ -112,11 +112,11 @@
 		"2.5"
 	],
 	"machine_max_jerk_x": [
-		"10",
+		"12",
 		"10"
 	],
 	"machine_max_jerk_y": [
-		"10",
+		"12",
 		"10"
 	],
 	"machine_max_jerk_z": [
