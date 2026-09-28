@@ -23,6 +23,5 @@
 	"sparse_infill_pattern": "gyroid",
 	"version": "0.0.0.0",
 	"wall_generator": "classic",
-	"wall_loops": "4",
-	"wall_sequence": "inner-outer-inner wall"
+	"wall_loops": "4"
 }
