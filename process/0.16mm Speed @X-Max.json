@@ -2,7 +2,6 @@
 	"bottom_shell_layers": "5",
 	"default_acceleration": "3000",
 	"from": "User",
-	"gap_infill_speed": "100",
 	"inherits": "0.20mm normal @X-Max",
 	"inner_wall_acceleration": "3500",
 	"inner_wall_speed": "170",

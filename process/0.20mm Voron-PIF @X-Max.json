@@ -6,11 +6,7 @@
 	"from": "User",
 	"inherits": "0.20mm normal @X-Max",
 	"initial_layer_line_width": "100%",
-	"inner_wall_line_width": "100%",
-	"internal_solid_infill_line_width": "100%",
-	"line_width": "100%",
 	"name": "0.20mm Voron-PIF @X-Max",
-	"outer_wall_line_width": "100%",
 	"print_extruder_id": [
 		"1"
 	],
