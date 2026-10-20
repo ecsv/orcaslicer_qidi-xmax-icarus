@@ -2,7 +2,7 @@
 	"bottom_shell_layers": "5",
 	"bridge_density": "120%",
 	"bridge_flow": "1.2062",
-	"brim_type": "no_brim",
+	"brim_type": "painted",
 	"from": "User",
 	"inherits": "0.20mm normal @X-Max",
 	"initial_layer_line_width": "100%",
